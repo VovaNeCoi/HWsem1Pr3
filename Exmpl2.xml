@@ -1,0 +1,43 @@
+﻿<Employee>
+  <fio>Пример Второй</fio>
+	<birthYear>1002</birthYear>
+	<adress>На Земле 2</adress>
+	<phoneNum>8-800-555-35-35</phoneNum>
+	<jobList>
+    <Job>
+		<name>Нераб-разраб</name>
+		<firstDay>2010-05-01-00:00</firstDay>
+		<lastDay>2012-11-01-00:00</lastDay>
+		<department>Разработка</department>
+</Job>
+		<Job>
+			<name>Прораб-разраб</name>
+			<firstDay>2013-05-01-00:00</firstDay>
+			<department>Разработка</department>
+		</Job>
+		<Job>
+			<name>Дипломированный рак в дотве</name>
+			<firstDay>2010-05-01-00:00</firstDay>
+			<department>Подработка</department>
+		</Job>
+  </jobList>
+	<salaryList>
+    <Salary>
+		<year>2010</year>
+      <month>6</month>
+      <size>150000</size>
+    </Salary>
+    <Salary>
+		<year>2011</year>
+		<month>7</month>
+		<size>250000</size>
+    
+</Salary>
+    <Salary>
+		<year>2012</year>
+		<month>8</month>
+		<size>120000</size>
+    </Salary>
+  </salaryList>
+
+</Employee>

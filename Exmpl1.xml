@@ -1,0 +1,31 @@
+﻿<Employee>
+  <fio>Пример Первый</fio>
+	<birthYear>1001</birthYear>
+	<adress>На Земле 1</adress>
+  <phoneNum>10001001</phoneNum>
+	<jobList>
+    <Job>
+      <name>Раб-разраб</name>
+		<firstDay>2010-09-01-08:00</firstDay>
+		<lastDay>2012-11-01-08:00</lastDay>
+		<department>Разработка</department>
+    </Job>
+  </jobList>
+	<salaryList>
+    <Salary>
+      <year>2010</year>
+      <month>9</month>
+      <size>15000</size>
+    </Salary>
+    <Salary>
+		<year>2011</year>
+		<month>10</month>
+		<size>15000</size>
+    </Salary>
+    <Salary>
+		<year>2012</year>
+		<month>11</month>
+		<size>15000</size>
+    </Salary>
+  </salaryList>
+</Employee>

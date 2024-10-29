@@ -1,0 +1,43 @@
+<Employee>
+<fio>Проверка Третья</fio>
+	<birthYear>1003</birthYear>
+	<adress>На Земле 3</adress>
+	<phoneNum>0303030303</phoneNum>
+	<jobList>
+  <Job>
+	  <name>Раб-разраб</name>
+	  <firstDay>2002-03-20-06:00</firstDay>
+	  <lastDay>2002-04-20-05:00</lastDay>
+  <department>Разработка</department>
+</Job>
+  <Job>
+    <name>Нераб-разраб</name>
+	  <firstDay>2002-05-20-05:00</firstDay>
+	  <lastDay>2002-06-20-05:00</lastDay>
+	  <department>Разработка</department>
+  
+</Job>
+  <Job>
+	  <name>Прораб-разраб</name>
+	  <firstDay>2003-06-21-06:00</firstDay>
+	  <department>Разработка</department>
+  </Job>
+</jobList>
+	<salaryList>
+  <Salary>
+	  <year>2002</year>
+		<month>4</month>
+	<size>0</size>
+</Salary>
+  <Salary>
+	  <year>2002</year>
+	  <month>6</month>
+	  <size>50000</size>
+</Salary>
+  <Salary>
+	  <year>2003</year>
+	  <month>6</month>
+	  <size>100000</size>
+</Salary>
+  </salaryList>
+</Employee>
